@@ -1,0 +1,19 @@
+#langchain
+langchain
+langchain-community
+langchain-core
+langchain-text-splitters
+langchain-classic
+chromadb
+sentence-transformers
+ollama
+streamlit
+python-dotenv
+transformers >= 4.51.0
+torch >= 2.1.0
+
+
+#streamlit
+streamlit
+#ocr
+mistralai
